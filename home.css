@@ -1,0 +1,13 @@
+/*NAV*/
+nav{
+    position: fixed;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 100px;
+    padding-left: 1000px;
+}
+a{
+    text-decoration: none;
+}
